@@ -1,2 +1,2 @@
 # Image_Grid
-https://sa-fardin.github.io/image-grid/
+https://sa-fardin.github.io/image_grid/
